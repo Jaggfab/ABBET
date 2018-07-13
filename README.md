@@ -9,3 +9,5 @@ Now that Github has been acquired by Microsoft, I'm unsure if I'll really want t
 But I feel like a lot of collaborative projects out there will continue to exist on that platform.
 
 So. This is it. My first commit on github, and soon my first pull request... but text only. No code for now.
+
+Oh, and this will also be my first merge on github. NOICE !!
