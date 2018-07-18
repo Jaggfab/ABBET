@@ -6,5 +6,6 @@ So. This is it. My first commit on github, and soon my first pull request... but
 
 Oh, and this will also be my first merge on github. NOICE !!
 
+# SVN ftw
 This branch is to explore some experimentations about how github works.
 For now I'm still unconvinced to use it... My private SVN server is doing a great job.
